@@ -23,6 +23,8 @@
 블랙커피처럼 서로를 자극해주고, 동기부여 해주며, 그 성장과정으로 인해 의미있는 가치를 만들어내고자 하는   
 **프론트엔드 코드리뷰 모임** ☕️ **Black Coffee**입니다.
 
+<br/>
+
 ## 🔥 Projects!
 
 <p align="middle">
@@ -97,6 +99,8 @@ npm install -g live-server
 ```
 live-server 폴더명
 ```
+
+<br/>
 
 ## 💻 Code Review
 아래 링크들에 있는 리뷰 가이드를 보고, 좋은 코드 리뷰 문화를 만들어 나가려고 합니다.  
